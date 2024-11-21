@@ -1,0 +1,10 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  overflow: hidden;
+}
+
+.draggable {
+  user-select: none;
+}
